@@ -24,6 +24,7 @@
     "babel-preset-es2017": "^6.24.1",
     "htmlnano": "^0.1.6",
     "parcel-bundler": "^1.2.0",
+    "parcel-plugin-vue": "^1.0.1",
     "postcss-modules": "^1.1.0",
     "posthtml": "^0.11.0",
     "posthtml-pug": "^1.0.2",
@@ -33,7 +34,5 @@
     "vue": "^2.5.10",
     "vue-template-compiler": "^2.5.10"
   },
-  "dependencies": {
-    "posthtml-minifier": "^0.1.0"
-  }
+  "dependencies": {}
 }
